@@ -28,7 +28,7 @@ Sugerimos que para a parte de backend (retorno de dados) você use (ou implement
 
 
 ## O mínimo que esperamos
-[] Que você seja a pessoa que fez o projeto - _ficaríamos bem desapontados se outra pessoa fizesse o desafio por você._
+[ ] Que você seja a pessoa que fez o projeto - _ficaríamos bem desapontados se outra pessoa fizesse o desafio por você._
 - Que os commits sejam pequenos, com poucas alterações, mostrando seu raciocínio de construção nos comentários
  
 Separamos alguns níveis de avaliação.
