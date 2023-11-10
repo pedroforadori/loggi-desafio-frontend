@@ -1,0 +1,22 @@
+.step {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    padding: 12px;
+}
+
+.step p {
+    padding: 15px 0 20px 0px;
+    font-weight: bold;
+}
+
+.step__line {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.step__label {
+    margin-left: 4px;
+    margin-right: 4px;
+}

@@ -2,6 +2,8 @@
 export default [
     {
         id: 'RAST0001',
+        deliveryHourFrom: '20:30',
+        deliveryHourTo: '20:30',
         phase: 
         [{
             title: 'Aguardando pagamento',
